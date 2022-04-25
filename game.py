@@ -67,8 +67,6 @@ for num in range(no_of_invaders):
     invader_Ychange.append(50)
 
 # Bullet
-# rest - bullet is not moving
-# fire - bullet is moving
 bulletImage = pygame.image.load('data/bullet.png')
 bullet_X = 0
 bullet_Y = 500
