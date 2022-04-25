@@ -8,3 +8,5 @@ pip install pygame
 ```bash
 python3 game.py
 ```
+## Scoring
+When your score is greater than 3, level 2 will begin.
